@@ -1,10 +1,10 @@
 import "./App.css";
-import BasicPage from "./01-basic";
+import ExamplePage from "./02-scale";
 
 function App() {
   return (
     <>
-      <BasicPage />
+      <ExamplePage />
     </>
   );
 }
